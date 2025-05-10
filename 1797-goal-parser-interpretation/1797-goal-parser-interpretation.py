@@ -5,7 +5,6 @@ class Solution:
         i = 0
         n = len(command)
         while i<n:
-            print(r)
             _ = C[i]
             if _=='G':
                 r+=_
