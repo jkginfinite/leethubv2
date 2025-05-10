@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1154-product-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1154-product-sales-analysis-ii) |
+| [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 <!---LeetCode Topics End-->
