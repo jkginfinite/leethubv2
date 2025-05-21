@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
