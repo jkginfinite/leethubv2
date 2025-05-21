@@ -7,10 +7,7 @@ var reverseDegree = function(s) {
     let l = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
     for (let index = 0; index < s.length; index++) {
-        let i = s[index];
-        let j = l.indexOf(i);
-
-        Summ+=(26-j)*(index+1)
+        Summ+=(26-l.indexOf(s[index]))*(index+1)
     }
     return Summ
 }
