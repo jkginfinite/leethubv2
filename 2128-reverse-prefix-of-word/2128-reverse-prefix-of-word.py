@@ -10,14 +10,13 @@ class Solution:
             s = L+s
             if L==ch:
                 stopped = True
-                end = left
-                left=len(word)
+                break    
             else:
                 left+=1
             
         
-        if stopped==True:
-            right = ''.join(W[end+1:])
+        if stopped:
+            right = ''.join(W[left+1:])
             s+=right
             return s
         else:
