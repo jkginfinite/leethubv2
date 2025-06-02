@@ -12,15 +12,12 @@ class Solution:
                 stopped = True
                 end = left
                 left=len(word)
-                print("STOPPED")
             else:
                 left+=1
             
         
-        if stopped==True:
+        if stopped:
             right = ''.join(W[end+1:])
-            print("RIGHT")
-            print(right)
             s+=right
             return s
         else:
