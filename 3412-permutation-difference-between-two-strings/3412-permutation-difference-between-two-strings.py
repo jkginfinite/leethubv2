@@ -4,6 +4,7 @@ class Solution:
         T = list(t)
         summ = 0
         for i in range(len(s)):
-            summ+=abs(i - T.index(S[i]))
+            s_char = S[i]
+            summ+=abs(i - T.index(s_char))
         return summ
         
