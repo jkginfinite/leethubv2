@@ -16,7 +16,7 @@ class Solution:
                 left+=1
             
         
-        if stopped:
+        if stopped==True:
             right = ''.join(W[end+1:])
             s+=right
             return s
