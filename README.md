@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
