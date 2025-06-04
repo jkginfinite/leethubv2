@@ -3,7 +3,7 @@ class Solution:
         n, ans = len(nums), inf
 
         nums.sort()
-
+        print(nums)
         for left, right in zip(nums[:n//2], nums[n-1: n//2-1: -1]):
             print(left)
             print(right)
