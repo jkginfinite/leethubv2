@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
@@ -98,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
