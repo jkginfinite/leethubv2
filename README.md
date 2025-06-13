@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1154-product-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1154-product-sales-analysis-ii) |
+| [1317-monthly-transactions-i](https://github.com/jkginfinite/leethubv2/tree/master/1317-monthly-transactions-i) |
 | [1425-weather-type-in-each-country](https://github.com/jkginfinite/leethubv2/tree/master/1425-weather-type-in-each-country) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/jkginfinite/leethubv2/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
