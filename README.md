@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0603-consecutive-available-seats](https://github.com/jkginfinite/leethubv2/tree/master/0603-consecutive-available-seats) |
 | [1154-product-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1154-product-sales-analysis-ii) |
 | [1291-immediate-food-delivery-i](https://github.com/jkginfinite/leethubv2/tree/master/1291-immediate-food-delivery-i) |
 | [1317-monthly-transactions-i](https://github.com/jkginfinite/leethubv2/tree/master/1317-monthly-transactions-i) |
