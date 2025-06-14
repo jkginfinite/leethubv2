@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1565-evaluate-boolean-expression](https://github.com/jkginfinite/leethubv2/tree/master/1565-evaluate-boolean-expression) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/jkginfinite/leethubv2/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [2516-sort-the-olympic-table](https://github.com/jkginfinite/leethubv2/tree/master/2516-sort-the-olympic-table) |
+| [2622-form-a-chemical-bond](https://github.com/jkginfinite/leethubv2/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/jkginfinite/leethubv2/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [3284-find-expensive-cities](https://github.com/jkginfinite/leethubv2/tree/master/3284-find-expensive-cities) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
