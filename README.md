@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-sort-the-olympic-table](https://github.com/jkginfinite/leethubv2/tree/master/2516-sort-the-olympic-table) |
 | [2622-form-a-chemical-bond](https://github.com/jkginfinite/leethubv2/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/jkginfinite/leethubv2/tree/master/2643-concatenate-the-name-and-the-profession) |
+| [3097-total-traveled-distance](https://github.com/jkginfinite/leethubv2/tree/master/3097-total-traveled-distance) |
 | [3284-find-expensive-cities](https://github.com/jkginfinite/leethubv2/tree/master/3284-find-expensive-cities) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 ## Tree
