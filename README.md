@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0603-consecutive-available-seats](https://github.com/jkginfinite/leethubv2/tree/master/0603-consecutive-available-seats) |
 | [1154-product-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1154-product-sales-analysis-ii) |
 | [1291-immediate-food-delivery-i](https://github.com/jkginfinite/leethubv2/tree/master/1291-immediate-food-delivery-i) |
+| [1301-reformat-department-table](https://github.com/jkginfinite/leethubv2/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/jkginfinite/leethubv2/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/jkginfinite/leethubv2/tree/master/1390-average-selling-price) |
 | [1425-weather-type-in-each-country](https://github.com/jkginfinite/leethubv2/tree/master/1425-weather-type-in-each-country) |
