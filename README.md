@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1454-remove-palindromic-subsequences](https://github.com/jkginfinite/leethubv2/tree/master/1454-remove-palindromic-subsequences) |
