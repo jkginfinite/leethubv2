@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
