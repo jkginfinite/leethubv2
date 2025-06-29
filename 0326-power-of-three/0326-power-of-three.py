@@ -6,7 +6,7 @@ class Solution:
             elif n==3:
                 return True
             else:
-                return helper(n//3) #tail recursion
+                return helper(n//3) #tail recursion to save memory
         if n==1:
             return True
         if n<=0 or n%3!=0:
