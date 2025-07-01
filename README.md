@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3256-find-candidates-for-data-scientist-position](https://github.com/jkginfinite/leethubv2/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3284-find-expensive-cities](https://github.com/jkginfinite/leethubv2/tree/master/3284-find-expensive-cities) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
+| [3816-dna-pattern-recognition](https://github.com/jkginfinite/leethubv2/tree/master/3816-dna-pattern-recognition) |
 ## Tree
 |  |
 | ------- |
