@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/jkginfinite/leethubv2/tree/master/1390-average-selling-price) |
 | [1425-weather-type-in-each-country](https://github.com/jkginfinite/leethubv2/tree/master/1425-weather-type-in-each-country) |
 | [1452-restaurant-growth](https://github.com/jkginfinite/leethubv2/tree/master/1452-restaurant-growth) |
+| [1564-create-a-session-bar-chart](https://github.com/jkginfinite/leethubv2/tree/master/1564-create-a-session-bar-chart) |
 | [1565-evaluate-boolean-expression](https://github.com/jkginfinite/leethubv2/tree/master/1565-evaluate-boolean-expression) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/jkginfinite/leethubv2/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
