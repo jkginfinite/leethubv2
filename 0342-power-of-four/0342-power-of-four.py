@@ -9,7 +9,7 @@ class Solution:
                 return False
             elif n<=4:
                 return True
-            return recursive(n//4)
+            return recursive(n//4) #tail recursion
         return recursive(n)
 
         
