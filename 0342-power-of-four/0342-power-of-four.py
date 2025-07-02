@@ -4,9 +4,12 @@ class Solution:
             return True
         if n%4!=0 or n<4:
             return False
-        while n>4:
-            n = n//4
+        def recursive(n):
             if n%4!=0:
                 return False
-        return True
+            elif n<=4:
+                return True
+            return recursive(n//4)
+        return recursive(n)
+
         
