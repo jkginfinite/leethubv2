@@ -3,9 +3,9 @@ class Solution:
         alphabet = list('abcdefghijklmnopqrstuvwxyz')
         word = alphabet[0]
         def recursive(word,k):
-            if len(word)>=k:
+            if len(word)>=k: #termination condition
                 return word[k-1]
-            new = ''
+            new = '' #recursion relation
             for i in word:
                 index = alphabet.index(i)
                 if index+1<26:
