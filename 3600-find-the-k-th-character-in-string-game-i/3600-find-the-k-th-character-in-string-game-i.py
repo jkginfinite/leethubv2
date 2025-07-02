@@ -1,8 +1,7 @@
 class Solution:
     def kthCharacter(self, k: int) -> str:
         alphabet = list('abcdefghijklmnopqrstuvwxyz')
-        i=0
-        word = 'a'
+        word = alphabet[0]
         while len(word)<k:
             new = ''
             for i in word:
