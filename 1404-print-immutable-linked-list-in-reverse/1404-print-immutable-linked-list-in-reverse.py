@@ -8,9 +8,11 @@
 
 class Solution:
     def printLinkedListInReverse(self, head: 'ImmutableListNode') -> None:
-        if head is not None:
-            #if head.printValue() line is above the recursive function, it prints
-            #normally
-            self.printLinkedListInReverse(head.getNext()) 
-            head.printValue()
-            #if head.printValue() line is below the recursive function, it prints in reverse
+        stack = []
+        while head:
+            stack.append(head)
+            head = head.getNext()
+
+        while stack:
+            node = stack.pop()
+            node.printValue()
