@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -238,9 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
