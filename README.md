@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/jkginfinite/leethubv2/tree/master/0620-not-boring-movies) |
 | [1154-product-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1154-product-sales-analysis-ii) |
 | [1161-project-employees-i](https://github.com/jkginfinite/leethubv2/tree/master/1161-project-employees-i) |
+| [1182-game-play-analysis-iv](https://github.com/jkginfinite/leethubv2/tree/master/1182-game-play-analysis-iv) |
 | [1215-reported-posts](https://github.com/jkginfinite/leethubv2/tree/master/1215-reported-posts) |
 | [1291-immediate-food-delivery-i](https://github.com/jkginfinite/leethubv2/tree/master/1291-immediate-food-delivery-i) |
 | [1301-reformat-department-table](https://github.com/jkginfinite/leethubv2/tree/master/1301-reformat-department-table) |
