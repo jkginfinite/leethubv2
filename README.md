@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/jkginfinite/leethubv2/tree/master/1452-restaurant-growth) |
 | [1564-create-a-session-bar-chart](https://github.com/jkginfinite/leethubv2/tree/master/1564-create-a-session-bar-chart) |
 | [1565-evaluate-boolean-expression](https://github.com/jkginfinite/leethubv2/tree/master/1565-evaluate-boolean-expression) |
+| [1578-apples-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1578-apples-oranges) |
 | [1664-find-users-with-valid-e-mails](https://github.com/jkginfinite/leethubv2/tree/master/1664-find-users-with-valid-e-mails) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/jkginfinite/leethubv2/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [1942-primary-department-for-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1942-primary-department-for-each-employee) |
