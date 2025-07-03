@@ -1,8 +1,19 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        dp = [1]*len(nums) #initialize an array with length and all elements equal to 1. let dp[1] represent the length of the longest subsequence that ends with the elements at index i
-        for i in range(1,len(nums)):
-            for j in range(i):
-                if nums[i]>nums[j]:
-                    dp[i] = max(dp[i],dp[j]+1)
-        return max(dp)
+        #initalize an array sub which contains the first element of nums
+        #iterate through the input, starting at the second element
+        #for each element num
+        #if num is greater than any element in sub then add num to sub
+        #otherwise perform a binary search in sub to find the smallest element that is greater than or
+        #equal to num and replace that element with num
+        sub = []
+        for num in nums:
+            i = bisect_left(sub,num)
+            #if num is greater than any element in sub
+            if i==len(sub):
+                sub.append(num)
+
+            #other wise replace the first element in sub greater than or equal to num
+            else:
+                sub[i]=num
+        return len(sub)
