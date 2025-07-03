@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/jkginfinite/leethubv2/tree/master/0270-closest-binary-search-tree-value) |
+| [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
