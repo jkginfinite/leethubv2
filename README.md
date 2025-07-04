@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1942-primary-department-for-each-employee) |
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
+| [2441-arrange-table-by-gender](https://github.com/jkginfinite/leethubv2/tree/master/2441-arrange-table-by-gender) |
 | [2516-sort-the-olympic-table](https://github.com/jkginfinite/leethubv2/tree/master/2516-sort-the-olympic-table) |
 | [2622-form-a-chemical-bond](https://github.com/jkginfinite/leethubv2/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/jkginfinite/leethubv2/tree/master/2643-concatenate-the-name-and-the-profession) |
