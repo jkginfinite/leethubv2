@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-class-performance](https://github.com/jkginfinite/leethubv2/tree/master/3286-class-performance) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/jkginfinite/leethubv2/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
+| [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
 | [3816-dna-pattern-recognition](https://github.com/jkginfinite/leethubv2/tree/master/3816-dna-pattern-recognition) |
 ## Tree
 |  |
