@@ -6,20 +6,20 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
+        #BFS iterative
         result = 0
         if not root:
             return result
         
-        stack = [root]
+        queue = [root]
 
-        while stack:
-            node = stack.pop()
+        while queue:
+            node = queue.pop(0)
             result+=1
-
             if node.left:
-                stack.append(node.left)
+                queue.append(node.left)
             if node.right:
-                stack.append(node.right)
+                queue.append(node.right)
         return result
 
         
