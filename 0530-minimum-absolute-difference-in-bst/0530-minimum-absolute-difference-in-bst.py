@@ -23,17 +23,10 @@ class Solution:
                 stack.append(node.right)
         
         results.sort()
-        import numpy
-        mindiff = numpy.inf
-        if len(results)>2:
-            for index1 in range(len(results)):
-                L = results[index1]
-                for index2 in range(index1+1,len(results)):
-                    R = results[index2]
-                    mindiff = min(abs(R-L),mindiff)
-            return mindiff
-        else:
-            return abs(max(results)-min(results))
+        minDiff = 1e9
+        for i in range(1,len(results)):
+            minDiff = min(minDiff, results[i]-results[i-1])
+        return minDiff
         
                     
 
