@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/jkginfinite/leethubv2/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/jkginfinite/leethubv2/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jkginfinite/leethubv2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/jkginfinite/leethubv2/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/jkginfinite/leethubv2/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -352,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
