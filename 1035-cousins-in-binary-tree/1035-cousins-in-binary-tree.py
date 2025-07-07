@@ -6,8 +6,6 @@
 #         self.right = right
 class Solution:
     def isCousins(self, root: Optional[TreeNode], x: int, y: int) -> bool:
-        
-
         def depth_parents(node,val):
             depth = 0
             queue = [(node,depth)]
