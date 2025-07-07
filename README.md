@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/jkginfinite/leethubv2/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/jkginfinite/leethubv2/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/jkginfinite/leethubv2/tree/master/1390-average-selling-price) |
+| [1399-page-recommendations](https://github.com/jkginfinite/leethubv2/tree/master/1399-page-recommendations) |
 | [1425-weather-type-in-each-country](https://github.com/jkginfinite/leethubv2/tree/master/1425-weather-type-in-each-country) |
 | [1452-restaurant-growth](https://github.com/jkginfinite/leethubv2/tree/master/1452-restaurant-growth) |
 | [1564-create-a-session-bar-chart](https://github.com/jkginfinite/leethubv2/tree/master/1564-create-a-session-bar-chart) |
