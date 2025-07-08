@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/jkginfinite/leethubv2/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2441-arrange-table-by-gender](https://github.com/jkginfinite/leethubv2/tree/master/2441-arrange-table-by-gender) |
+| [2452-product-sales-analysis-v](https://github.com/jkginfinite/leethubv2/tree/master/2452-product-sales-analysis-v) |
 | [2516-sort-the-olympic-table](https://github.com/jkginfinite/leethubv2/tree/master/2516-sort-the-olympic-table) |
 | [2622-form-a-chemical-bond](https://github.com/jkginfinite/leethubv2/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/jkginfinite/leethubv2/tree/master/2643-concatenate-the-name-and-the-profession) |
