@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3256-find-candidates-for-data-scientist-position](https://github.com/jkginfinite/leethubv2/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3284-find-expensive-cities](https://github.com/jkginfinite/leethubv2/tree/master/3284-find-expensive-cities) |
 | [3286-class-performance](https://github.com/jkginfinite/leethubv2/tree/master/3286-class-performance) |
+| [3287-loan-types](https://github.com/jkginfinite/leethubv2/tree/master/3287-loan-types) |
 | [3365-find-all-unique-email-domains](https://github.com/jkginfinite/leethubv2/tree/master/3365-find-all-unique-email-domains) |
 | [3481-second-day-verification](https://github.com/jkginfinite/leethubv2/tree/master/3481-second-day-verification) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/jkginfinite/leethubv2/tree/master/3512-bitwise-user-permissions-analysis) |
