@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-sellers-with-no-sales](https://github.com/jkginfinite/leethubv2/tree/master/1749-sellers-with-no-sales) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/jkginfinite/leethubv2/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/jkginfinite/leethubv2/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1942-primary-department-for-each-employee) |
 | [2046-page-recommendations-ii](https://github.com/jkginfinite/leethubv2/tree/master/2046-page-recommendations-ii) |
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
