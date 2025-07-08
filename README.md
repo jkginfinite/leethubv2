@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2622-form-a-chemical-bond](https://github.com/jkginfinite/leethubv2/tree/master/2622-form-a-chemical-bond) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/jkginfinite/leethubv2/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2829-find-latest-salaries](https://github.com/jkginfinite/leethubv2/tree/master/2829-find-latest-salaries) |
+| [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/jkginfinite/leethubv2/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [3097-total-traveled-distance](https://github.com/jkginfinite/leethubv2/tree/master/3097-total-traveled-distance) |
 | [3155-highest-salaries-difference](https://github.com/jkginfinite/leethubv2/tree/master/3155-highest-salaries-difference) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/jkginfinite/leethubv2/tree/master/3256-find-candidates-for-data-scientist-position) |
