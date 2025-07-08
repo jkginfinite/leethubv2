@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-project-employees-ii](https://github.com/jkginfinite/leethubv2/tree/master/1162-project-employees-ii) |
 | [1172-sales-analysis-i](https://github.com/jkginfinite/leethubv2/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1173-sales-analysis-ii) |
+| [1174-sales-analysis-iii](https://github.com/jkginfinite/leethubv2/tree/master/1174-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/jkginfinite/leethubv2/tree/master/1182-game-play-analysis-iv) |
 | [1215-reported-posts](https://github.com/jkginfinite/leethubv2/tree/master/1215-reported-posts) |
 | [1237-reported-posts-ii](https://github.com/jkginfinite/leethubv2/tree/master/1237-reported-posts-ii) |
