@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/jkginfinite/leethubv2/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/jkginfinite/leethubv2/tree/master/1453-ads-performance) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/jkginfinite/leethubv2/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/jkginfinite/leethubv2/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1564-create-a-session-bar-chart](https://github.com/jkginfinite/leethubv2/tree/master/1564-create-a-session-bar-chart) |
 | [1565-evaluate-boolean-expression](https://github.com/jkginfinite/leethubv2/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1578-apples-oranges) |
