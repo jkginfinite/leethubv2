@@ -1,7 +1,9 @@
 # Write your MySQL query statement below
 
-select customer_id, customer_name
-from customers
-where customer_id not in (select customer_id from orders where product_name='C')
-and customer_id in (select customer_id from orders where product_name='A')
-and customer_id in (select customer_id from orders where product_name='B')
+select c.customer_id, customer_name
+FROM customers c
+LEFT JOIN orders
+using (customer_id)
+group by customer_id
+HAVING SUM(product_name='A')>0 AND SUM(product_name='B')>0 AND SUM(product_name='C')=0
+ORDER BY customer_id
