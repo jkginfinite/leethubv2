@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-bitwise-user-permissions-analysis](https://github.com/jkginfinite/leethubv2/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 | [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
+| [3782-find-valid-emails](https://github.com/jkginfinite/leethubv2/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/jkginfinite/leethubv2/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/jkginfinite/leethubv2/tree/master/3848-analyze-subscription-conversion) |
 | [3910-find-books-with-no-available-copies](https://github.com/jkginfinite/leethubv2/tree/master/3910-find-books-with-no-available-copies) |
