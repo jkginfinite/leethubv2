@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 | [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
 | [3816-dna-pattern-recognition](https://github.com/jkginfinite/leethubv2/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/jkginfinite/leethubv2/tree/master/3848-analyze-subscription-conversion) |
 ## Tree
 |  |
 | ------- |
