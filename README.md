@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1564-create-a-session-bar-chart](https://github.com/jkginfinite/leethubv2/tree/master/1564-create-a-session-bar-chart) |
 | [1565-evaluate-boolean-expression](https://github.com/jkginfinite/leethubv2/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1578-apples-oranges) |
+| [1639-friendly-movies-streamed-last-month](https://github.com/jkginfinite/leethubv2/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1654-customer-order-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/jkginfinite/leethubv2/tree/master/1664-find-users-with-valid-e-mails) |
 | [1686-fix-product-name-format](https://github.com/jkginfinite/leethubv2/tree/master/1686-fix-product-name-format) |
