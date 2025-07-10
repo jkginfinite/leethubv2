@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/jkginfinite/leethubv2/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
+| [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2371-the-users-that-are-eligible-for-discount) |
 | [2441-arrange-table-by-gender](https://github.com/jkginfinite/leethubv2/tree/master/2441-arrange-table-by-gender) |
 | [2452-product-sales-analysis-v](https://github.com/jkginfinite/leethubv2/tree/master/2452-product-sales-analysis-v) |
