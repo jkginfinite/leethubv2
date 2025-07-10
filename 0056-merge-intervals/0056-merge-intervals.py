@@ -5,7 +5,6 @@ class Solution:
 
         merged = []
         queue = sorted(intervals)
-        print(queue)
         while queue:
             node1 = queue.pop(0)
             if queue:
