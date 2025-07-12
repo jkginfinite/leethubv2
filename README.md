@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Backtracking
@@ -470,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
