@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jkginfinite/leethubv2/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/jkginfinite/leethubv2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/jkginfinite/leethubv2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jkginfinite/leethubv2/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 ## Recursion
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/jkginfinite/leethubv2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Design
