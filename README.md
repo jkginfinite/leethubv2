@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0270-closest-binary-search-tree-value](https://github.com/jkginfinite/leethubv2/tree/master/0270-closest-binary-search-tree-value) |
