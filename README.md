@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/jkginfinite/leethubv2/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jkginfinite/leethubv2/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/jkginfinite/leethubv2/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
@@ -470,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jkginfinite/leethubv2/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
