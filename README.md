@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Monotonic Queue
 |  |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
