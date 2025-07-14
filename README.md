@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jkginfinite/leethubv2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0228-summary-ranges) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0230-kth-smallest-element-in-a-bst) |
