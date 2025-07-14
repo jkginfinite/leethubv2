@@ -1,18 +1,26 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        if num<2:
+        if num in [0,1]:
             return True
-
-        left, right = 2, num//2
-
-        while left<=right:
-            x = left+(right-left)//2
-            guess_squared=x*x
-            if guess_squared==num:
-                return True
-            if guess_squared>num:
-                right = x-1
-            else:
-                left = x+1
-        return False
-        
+        if num in [2,3]:
+            return False
+        def binarySearch(num):
+            low=1
+            high=num
+            x = num
+            while low<=high:
+                mid = low + (high-low)//2
+                if mid+1<=num and mid-1>=0:
+                    if mid**2==x:
+                        return True
+                    elif ((mid+1)**2)>x and ((mid-1)**2)<x and (mid**2)!=x:
+                        return False
+                    elif (mid**2)<x:
+                        low=mid+1
+                    else:
+                        high = mid-1
+                elif mid+1==num:
+                    mid-=1
+                elif mid-1==0:
+                    mid+=1
+        return binarySearch(num)
