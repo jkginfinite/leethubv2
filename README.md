@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jkginfinite/leethubv2/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 ## Union Find
 |  |
 | ------- |
@@ -552,4 +556,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkginfinite/leethubv2/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/jkginfinite/leethubv2/tree/master/0303-range-sum-query-immutable) |
+| [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
