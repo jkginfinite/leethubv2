@@ -1,10 +1,16 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        full_set = list(range(1,max(arr)+k+1))
+        left, right = 0, len(arr)-1
 
-        count=0
-        for n in full_set:
-            if n not in arr:
-                count+=1
-            if count==k:
-                return n
+        while left<=right:
+            pivot = (left+right)//2
+
+            #if number of positive integers whiuch are missing before arr[pivot] is less than k,
+            #continue to the right
+            if arr[pivot]-pivot-1<k:
+                left = pivot + 1
+            #otherwise go left
+            else:
+                right = pivot - 1
+                
+        return left+k
