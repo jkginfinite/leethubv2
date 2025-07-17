@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jkginfinite/leethubv2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jkginfinite/leethubv2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jkginfinite/leethubv2/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
