@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/jkginfinite/leethubv2/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
