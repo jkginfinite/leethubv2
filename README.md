@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1123-single-row-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/1123-single-row-keyboard) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1454-remove-palindromic-subsequences](https://github.com/jkginfinite/leethubv2/tree/master/1454-remove-palindromic-subsequences) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
