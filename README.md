@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jkginfinite/leethubv2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jkginfinite/leethubv2/tree/master/0079-word-search) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 ## Combinatorics
 |  |
