@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkginfinite/leethubv2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0228-summary-ranges) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jkginfinite/leethubv2/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jkginfinite/leethubv2/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
