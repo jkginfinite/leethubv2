@@ -6,11 +6,11 @@
 #         self.right = right
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:
-        if not inorder:
+        if not inorder or not postorder:
             return None
         cur_val = postorder.pop()
-        idx = inorder.index(cur_val)
-        right = self.buildTree(inorder[idx+1:], postorder)
-        left = self.buildTree(inorder[:idx], postorder)
-        return TreeNode(cur_val, left, right)
+        index = inorder.index(cur_val)
+        right = self.buildTree(inorder[index+1:],postorder)
+        left = self.buildTree(inorder[:index],postorder)
+        return TreeNode(cur_val,left,right)
         
