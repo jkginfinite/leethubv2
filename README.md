@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jkginfinite/leethubv2/tree/master/3412-permutation-difference-between-two-strings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jkginfinite/leethubv2/tree/master/3412-permutation-difference-between-two-strings) |
 | [3811-reverse-degree-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/3811-reverse-degree-of-a-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
