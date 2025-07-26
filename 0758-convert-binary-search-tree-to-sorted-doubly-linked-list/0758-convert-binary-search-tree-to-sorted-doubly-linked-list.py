@@ -1,40 +1,34 @@
-"""
-# Definition for a Node.
-class Node:
-    def __init__(self, val, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-"""
-
 class Solution:
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
-
-        def helper(node):
-
-            nonlocal last, first
-            if node:
-                helper(node.left)
-
-                if last:
-                    #link the previous node with the current one (node)
-                    last.right = node
-                    node.left = last
-                else:
-                    #keep the smallest node to close DLL later on
-                    first = node
-                last = node
-
-                #right
-                helper(node.right)
         if not root:
             return None
 
-        #the smallest first and largest last nodes
-        first, last = None, None
-        helper(root)
+        stack = []
+        current = root
+        first = last = None
 
-        #close DLL
+        while stack or current:
+            # Traverse left subtree
+            while current:
+                stack.append(current)
+                current = current.left
+
+            # Visit node
+            current = stack.pop()
+
+            if last:
+                last.right = current
+                current.left = last
+            else:
+                first = current  # First node will be the smallest (leftmost)
+
+            last = current
+
+            # Traverse right subtree
+            current = current.right
+
+        # Close the doubly linked list
         last.right = first
         first.left = last
+
         return first
