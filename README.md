@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/jkginfinite/leethubv2/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/jkginfinite/leethubv2/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/jkginfinite/leethubv2/tree/master/0975-range-sum-of-bst) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/jkginfinite/leethubv2/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jkginfinite/leethubv2/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/jkginfinite/leethubv2/tree/master/0801-is-graph-bipartite) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/jkginfinite/leethubv2/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 ## Geometry
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0269-alien-dictionary](https://github.com/jkginfinite/leethubv2/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
+| [0801-is-graph-bipartite](https://github.com/jkginfinite/leethubv2/tree/master/0801-is-graph-bipartite) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/jkginfinite/leethubv2/tree/master/1144-optimize-water-distribution-in-a-village) |
 ## Shortest Path
 |  |
