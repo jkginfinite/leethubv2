@@ -9,9 +9,9 @@ class Solution:
         if not root:
             return 0
 
-        res = 0
-        stack = [(root, False)]
-        node_info = {}  # node -> (sum, count)
+        res=0
+        stack = [(root,False)]
+        node_info = {}
 
         while stack:
             node, visited = stack.pop()
@@ -20,21 +20,19 @@ class Solution:
                 continue
 
             if visited:
-                # Post-order: compute the sum and count
-                left_sum, left_count = node_info[node.left] if node.left else (0, 0)
-                right_sum, right_count = node_info[node.right] if node.right else (0, 0)
+                left_sum, left_count = node_info[node.left] if node.left else (0,0)
+                right_sum, right_count = node_info[node.right] if node.right else (0,0)
 
                 total_sum = left_sum + node.val + right_sum
-                total_count = left_count + 1 + right_count
+                total_count = left_count+1+right_count
 
-                if total_sum // total_count == node.val:
-                    res += 1
+                if total_sum//total_count == node.val:
+                    res+=1
 
                 node_info[node] = (total_sum, total_count)
             else:
-                # First push the node again as visited
-                stack.append((node, True))
-                stack.append((node.right, False))
-                stack.append((node.left, False))
-
+                stack.append((node,True))
+                stack.append((node.right,False))
+                stack.append((node.left,False))
+        
         return res
