@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jkginfinite/leethubv2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jkginfinite/leethubv2/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/jkginfinite/leethubv2/tree/master/1609-find-all-the-lonely-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/jkginfinite/leethubv2/tree/master/2384-root-equals-sum-of-children) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jkginfinite/leethubv2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jkginfinite/leethubv2/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/jkginfinite/leethubv2/tree/master/1609-find-all-the-lonely-nodes) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jkginfinite/leethubv2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/jkginfinite/leethubv2/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jkginfinite/leethubv2/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-find-all-the-lonely-nodes](https://github.com/jkginfinite/leethubv2/tree/master/1609-find-all-the-lonely-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/jkginfinite/leethubv2/tree/master/2384-root-equals-sum-of-children) |
