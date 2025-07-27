@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/jkginfinite/leethubv2/tree/master/0408-valid-word-abbreviation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
