@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jkginfinite/leethubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/jkginfinite/leethubv2/tree/master/1500-count-largest-group) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
+| [1965-sum-of-digits-in-base-k](https://github.com/jkginfinite/leethubv2/tree/master/1965-sum-of-digits-in-base-k) |
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
