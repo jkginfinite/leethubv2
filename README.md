@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/jkginfinite/leethubv2/tree/master/0408-valid-word-abbreviation) |
+| [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkginfinite/leethubv2/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
+| [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jkginfinite/leethubv2/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
