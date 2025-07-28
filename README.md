@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
+| [0163-missing-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0163-missing-ranges) |
 | [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jkginfinite/leethubv2/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkginfinite/leethubv2/tree/master/0209-minimum-size-subarray-sum) |
