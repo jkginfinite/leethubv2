@@ -1,13 +1,8 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         def get_next(n):
-            total_sum=0
-            while n>0:
-                n, digit = divmod(n,10)
-                total_sum+=digit**2
-            print(total_sum)
-            return total_sum
-        
+            return sum([int(i)**2 for i in list(str(n))])
+            
         seen = set()
         while n!=1 and n not in seen:
             seen.add(n)
