@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jkginfinite/leethubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jkginfinite/leethubv2/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/3811-reverse-degree-of-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jkginfinite/leethubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3429-special-array-i](https://github.com/jkginfinite/leethubv2/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jkginfinite/leethubv2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Math
 |  |
