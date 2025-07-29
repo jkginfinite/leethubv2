@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jkginfinite/leethubv2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Math
 |  |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/jkginfinite/leethubv2/tree/master/1965-sum-of-digits-in-base-k) |
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
@@ -829,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
+## Number Theory
+|  |
+| ------- |
+| [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 <!---LeetCode Topics End-->
