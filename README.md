@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jkginfinite/leethubv2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/jkginfinite/leethubv2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jkginfinite/leethubv2/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0364-nested-list-weight-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0364-nested-list-weight-sum-ii) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jkginfinite/leethubv2/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jkginfinite/leethubv2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
