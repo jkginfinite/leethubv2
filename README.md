@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jkginfinite/leethubv2/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/jkginfinite/leethubv2/tree/master/0168-excel-sheet-column-title) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
 | [0269-alien-dictionary](https://github.com/jkginfinite/leethubv2/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jkginfinite/leethubv2/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0222-count-complete-tree-nodes) |
+| [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
