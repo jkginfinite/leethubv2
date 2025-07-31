@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jkginfinite/leethubv2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/jkginfinite/leethubv2/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
 | [0162-find-peak-element](https://github.com/jkginfinite/leethubv2/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/jkginfinite/leethubv2/tree/master/0163-missing-ranges) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jkginfinite/leethubv2/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkginfinite/leethubv2/tree/master/0209-minimum-size-subarray-sum) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0151-reverse-words-in-a-string) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jkginfinite/leethubv2/tree/master/0146-lru-cache) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/jkginfinite/leethubv2/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
