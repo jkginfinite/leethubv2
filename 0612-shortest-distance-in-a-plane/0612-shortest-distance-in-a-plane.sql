@@ -1,11 +1,9 @@
-# Write your MySQL query statement below
-with t as
-(select alpha.x as x1, alpha.y as y1, beta.x as x2, beta.y as y2
-from Point2D as alpha
-cross join Point2D as beta)
-
-select min(shortest) as shortest
-from
-(select round(Power((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2),0.5),2) as shortest
-from t
-where Power((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2),0.5)>0) as x
+SELECT
+    ROUND(SQRT(MIN((POW(p1.x - p2.x, 2) + POW(p1.y - p2.y, 2)))),2) AS shortest
+FROM
+    Point2D p1
+        JOIN
+    Point2D p2 ON (p1.x <= p2.x AND p1.y < p2.y)
+        OR (p1.x <= p2.x AND p1.y > p2.y)
+        OR (p1.x < p2.x AND p1.y = p2.y)
+;
