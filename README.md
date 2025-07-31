@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1173-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1173-sales-analysis-ii) |
 | [1174-sales-analysis-iii](https://github.com/jkginfinite/leethubv2/tree/master/1174-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/jkginfinite/leethubv2/tree/master/1182-game-play-analysis-iv) |
+| [1204-new-users-daily-count](https://github.com/jkginfinite/leethubv2/tree/master/1204-new-users-daily-count) |
 | [1215-reported-posts](https://github.com/jkginfinite/leethubv2/tree/master/1215-reported-posts) |
 | [1237-reported-posts-ii](https://github.com/jkginfinite/leethubv2/tree/master/1237-reported-posts-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jkginfinite/leethubv2/tree/master/1246-user-activity-for-the-past-30-days-ii) |
