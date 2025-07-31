@@ -8,24 +8,20 @@ class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        level = 0
-        queue = [[root,level]]
-        levels = {level:[root.val]}
-        while queue:
-            node,level = queue.pop(0)
-            if node.left:
-                queue.append([node.left,level-1])
-                if level-1 not in levels:
-                    levels[level-1]=[]
-                levels[level-1].extend([node.left.val])
-            if node.right:
-                queue.append([node.right,level+1])
-                if level+1 not in levels:
-                    levels[level+1]=[]
-                levels[level+1].extend([node.right.val])
-        s = sorted(levels.items())
-        L = []
-        for v in s:
-            L.append(v[1])
-        return L
         
+        columnTable = defaultdict(list)
+        min_column = max_column = 0
+        queue =deque([(root,0)])
+
+        while queue:
+            node, column = queue.popleft()
+
+            if node is not None:
+                columnTable[column].append(node.val)
+                min_column = min(min_column, column)
+                max_column = max(max_column, column)
+
+                queue.append((node.left, column-1))
+                queue.append((node.right, column+1))
+
+        return [columnTable[x] for x in range(min_column, max_column+1)]
