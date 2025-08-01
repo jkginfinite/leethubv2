@@ -1,19 +1,26 @@
 class Solution:
     def lengthOfLongestSubstringKDistinct(self, s: str, k: int) -> int:
-        if len(s)<k:
-            return len(s)
 
-        left=0
-        right=0
-        S = list(s)
-        max_len = 0
-        while right<len(s):
-            window = S[left:right+1]
+        #use a hashmap counter to keep track of the number of eachh character in the current window
+        #set max_size=0, iterate from 0 to n-1 at each step right, increment s[right]+=1 and increment 
+        #counter[s[right]]+=1
+        max_size = 0
+        counter = collections.Counter() #use a hashmap counter to keep track of each character in the current window
 
-            if len(set(window))<=k:
-                max_len = max(max_len,len(window))
-                right+=1
-            elif len(set(window))>k:
-                left+=1
-        
-        return max_len
+        #set max_size=0 iterate right from 0 to n-1 at each step right, increment s[right] by 1 and increment counter[s[right]] by 1
+
+        #if len(counter)>k decrement counter[s[right-max_size]] by -1 delete counter[s[right-max_size]] if it equals zero
+        #otherwise increment max_size by 1
+
+        for right in range(len(s)):
+            counter[s[right]]+=1
+
+            if len(counter)<=k:
+                max_size+=1
+            else:
+                counter[s[right-max_size]]-=1
+
+                if counter[s[right-max_size]]==0:
+                    del counter[s[right-max_size]]
+
+        return max_size
