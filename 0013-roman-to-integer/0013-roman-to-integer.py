@@ -1,20 +1,40 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        d = {'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
-        rules = {'IV':4,'IX':9,'XL':40,'XC':90,'CD':400,'DM':900}
-        d.update(rules)
-        values = d
-        total=0
-        i=0
-        while i<len(s):
-            #if this is the subtractive case
-            if i+1<len(s) and values[s[i]]<values[s[i+1]]:
-                total += values[s[i+1]] - values[s[i]]
-                i+=2
+        d = {"I": 1,"V": 5,"X": 10,"L": 50,"C": 100,"D": 500,"M": 1000}
+        
+        number = 0
+        stack = list(s)
+        while stack:
+            letter = stack.pop()
+            if stack and letter in ["V","X","L","C","D","M"] and stack[-1]+letter in ["IV","IX","XL","XC","CD","CM"]:
+                    next_letter=stack.pop()
+                    value = d[letter] - d[next_letter]
+                    print(value)
+                    number+=value
+                    
             else:
-                total+=values[s[i]]
-                i+=1
-        return total
-
-
+                value = d[letter]
+                print(value)
+                number+=value
+        return number
+            
+            
+        #III
+        #I n+=1
+        #I n+=1
+        #I n+=1
+        
+        #LVIII
+        #I n+=1
+        #I n+=1
+        #I n+=1
+        #V n+=5
+        #L n+=50
+        
+        #MCMXCIV
+        #V n+=5
+        #I and last==V n-=1
+        #C n+=100
+        #X n-=100
+        #M n+=1000
         
