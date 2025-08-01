@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jkginfinite/leethubv2/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/jkginfinite/leethubv2/tree/master/0389-find-the-difference) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
 | [0269-alien-dictionary](https://github.com/jkginfinite/leethubv2/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0389-find-the-difference](https://github.com/jkginfinite/leethubv2/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkginfinite/leethubv2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jkginfinite/leethubv2/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
