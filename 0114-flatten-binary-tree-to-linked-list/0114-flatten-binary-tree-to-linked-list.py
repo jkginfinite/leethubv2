@@ -5,29 +5,43 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def flattenTree(self, node):
-        #handle the node being null
-        if not node:
-            return None
-        #for a lead node, return it as is
-        if not node.left and not node.right:
-            return node
-        
-        #recursively flatten the left subtree
-        leftTail = self.flattenTree(node.left)
-        #resursively flatten the right subtree
-        rightTail = self.flattenTree(node.right)
-        #if there was a left subtree, we shuffle the connections around so that there is nothing on the left side anymore
-        if leftTail:
-            leftTail.right = node.right
-            node.right = node.left
-            node.left = None
-        
-        #we need to return the right mode node after we are done wiring the new connections
-        return rightTail if rightTail else leftTail
-
     def flatten(self, root: Optional[TreeNode]) -> None:
-        """
-        Do not return anything, modify root in-place instead.
-        """
-        self.flattenTree(root)
+        if not root:
+            return root
+
+        start,end=1,2
+
+        tailNode = None
+        stack = [[root,start]]
+
+        while stack:
+            node, state = stack.pop()
+
+            #leaf
+            if not node.left and not node.right:
+                tailNode = node
+                continue
+            
+            #if node is in the start state, it means we havent processed its left child
+            if state==start:
+                if node.left:
+                    stack.append([node,end])
+                    stack.append([node.left,start])
+                
+                elif node.right:
+                    #incase the current node didnt have a left child, append its right child
+                    stack.append([node.right,start])
+            else:
+                #if the current node is in the end state, that means we did process one of its own child
+                rightNode = node.right
+
+                if tailNode:
+                    #establish the proper connections
+                    tailNode.right = node.right
+                    node.right = node.left
+                    node.left = None
+                    rightNode = tailNode.right
+                
+                if rightNode:
+                    stack.append([rightNode,start])
+
