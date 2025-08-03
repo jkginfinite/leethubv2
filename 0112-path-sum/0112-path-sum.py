@@ -5,18 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def hasPathSum(self, root: Optional[TreeNode],targetSum: int)->bool:
+    def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         if not root:
             return False
 
-        stack = [(root, targetSum-root.val)]
-
+        stack = [[root,root.val]]
+        Sum = 0
         while stack:
-            node, curSum = stack.pop()
-            if (not node.left) and (not node.right) and curSum==0:
-                return True
-            if node.right:
-                stack.append((node.right, curSum - node.right.val))
+            node,val = stack.pop()
             if node.left:
-                stack.append((node.left, curSum- node.left.val))
+                stack.append([node.left,val+node.left.val])
+            if node.right:
+                stack.append([node.right,val+node.right.val])
+            if not node.right and not node.left and val==targetSum:
+                return True
         return False
+        
