@@ -1,24 +1,33 @@
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
-    def pathSum(self, root, targetSum):
-        def dfs(node, current_sum):
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+
+        def helper(node,currSum):
+            nonlocal count
             if not node:
-                return 0
+                return
 
-            current_sum += node.val
-            count = prefix_sums.get(current_sum - targetSum, 0)
+            currSum+=node.val
 
-            prefix_sums[current_sum] = prefix_sums.get(current_sum, 0) + 1
-            count += dfs(node.left, current_sum)
-            count += dfs(node.right, current_sum)
-            prefix_sums[current_sum] -= 1
+            if currSum==targetSum:
+                count+=1
+            
+            count+=hashmap[currSum-targetSum]
 
-            return count
+            hashmap[currSum]+=1
 
-        prefix_sums = {0: 1}
-        return dfs(root, 0)
+            helper(node.left,currSum)
+            helper(node.right,currSum)
+
+            #remove thecurrent sum from the hashmap in order to not use it during parallel subtree processing
+            hashmap[currSum]-=1
+        
+        count=0
+        hashmap = defaultdict(int)
+        helper(root,0)
+        return count
