@@ -6,20 +6,27 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        all_paths = []
 
-        def dfs(node,path,remaining_sum):
+        def helper(node,RemainingSum,path,pathsList):
             if not node:
                 return
-
+            
             path.append(node.val)
 
-            if not node.left and not node.right and remaining_sum == node.val:
-                all_paths.append(path[:])
+            if RemainingSum==node.val and not node.left and not node.right:
+                pathsList.append(list(path))
             else:
-                dfs(node.left, path, remaining_sum - node.val)
-                dfs(node.right, path, remaining_sum - node.val)
+                helper(node.left,RemainingSum-node.val,path,pathsList)
+                helper(node.right,RemainingSum-node.val,path,pathsList)
+            
+            #we need to pop the node once we are done processing all of its subtrees
             path.pop()
-        
-        dfs(root, [], targetSum)
-        return all_paths
+
+        pathsList = []
+        path = []
+        Sum = 0
+        RemainingSum = targetSum-Sum
+        helper(root,RemainingSum,path,pathsList)
+        return pathsList
+
+            
