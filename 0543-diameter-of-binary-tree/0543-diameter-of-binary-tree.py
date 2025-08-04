@@ -7,9 +7,11 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         diameter = 0
+
         def longest_path(node):
             if not node:
                 return -1
+
             nonlocal diameter
 
             left_path = longest_path(node.left)
@@ -21,3 +23,4 @@ class Solution:
 
         longest_path(root)
         return diameter
+        
