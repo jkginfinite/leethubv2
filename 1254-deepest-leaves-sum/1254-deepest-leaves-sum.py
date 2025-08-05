@@ -6,29 +6,27 @@
 #         self.right = right
 class Solution:
     def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-
-        if not root.left and not root.right:
-            return root.val
-
         level = 0
-        levels={level:[root.val]}
+        Sum = 0
+        depth = 0
         queue = [[root,root.val]]
 
         while queue:
             node,level = queue.pop(0)
 
-            if node.left or node.right:
-                if level+1 not in levels:
-                    levels[level+1]=[]
+            if not node.left and not node.right:
+                if depth<level:
+                    Sum = node.val
+                    depth = level
+                elif depth==level:
+                    Sum+=node.val
 
             if node.left:
                 queue.append([node.left,level+1])
-                levels[level+1].append(node.left.val)
+                #levels[level+1].append(node.left.val)
 
             if node.right:
                 queue.append([node.right,level+1])
-                levels[level+1].append(node.right.val)
+                #levels[level+1].append(node.right.val)
 
-        return sum(levels[level])    
+        return Sum  
