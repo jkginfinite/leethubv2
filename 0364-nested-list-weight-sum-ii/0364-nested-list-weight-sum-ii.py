@@ -47,14 +47,27 @@ class Solution(object):
         :type nestedList: List[NestedInteger]
         :rtype: int
         """
-        res, level_sum = 0, 0
-        while nestedList:
-            next = []
-            for nest in nestedList:
-                if nest.isInteger():
-                    level_sum += nest.getInteger()
+
+        def dfs_max_integer(nestedList,depth):
+            maxdepth = 1
+            for nested in nestedList:
+                if nested.getList():
+                    maxdepth = max(maxdepth,dfs_max_integer(nested.getList(),depth+1))
                 else:
-                    next.extend(nest.getList())
-            nestedList = next 
-            res += level_sum
-        return res
+                    maxdepth = max(maxdepth,depth)
+            return maxdepth
+
+        maxdepth1 = 1
+        maxdepth = dfs_max_integer(nestedList,1)
+        print("maxdepth: ",maxdepth)
+
+        def dfs(nestedList,depth):
+            total = 0
+            for nested in nestedList:
+                if nested.isInteger():
+                    total+=(maxdepth-depth+1)*nested.getInteger()
+                else:
+                    total+=dfs(nested.getList(),depth+1)
+            return total
+
+        return dfs(nestedList,1)
