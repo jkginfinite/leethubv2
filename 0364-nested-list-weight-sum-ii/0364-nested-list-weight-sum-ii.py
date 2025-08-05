@@ -57,9 +57,7 @@ class Solution(object):
                     maxdepth = max(maxdepth,depth)
             return maxdepth
 
-        maxdepth1 = 1
         maxdepth = dfs_max_integer(nestedList,1)
-        print("maxdepth: ",maxdepth)
 
         def dfs(nestedList,depth):
             total = 0
