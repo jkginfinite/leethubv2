@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jkginfinite/leethubv2/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jkginfinite/leethubv2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0670-maximum-swap](https://github.com/jkginfinite/leethubv2/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jkginfinite/leethubv2/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
+| [0670-maximum-swap](https://github.com/jkginfinite/leethubv2/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
