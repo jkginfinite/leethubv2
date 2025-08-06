@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0168-excel-sheet-column-title](https://github.com/jkginfinite/leethubv2/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/jkginfinite/leethubv2/tree/master/0266-palindrome-permutation) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0364-nested-list-weight-sum-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0716-max-stack](https://github.com/jkginfinite/leethubv2/tree/master/0716-max-stack) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/jkginfinite/leethubv2/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/jkginfinite/leethubv2/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
