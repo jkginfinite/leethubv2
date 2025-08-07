@@ -16,18 +16,21 @@ class Solution:
         one we find all the permuations of nums[0] we back track by removing nums[0] from curr and adding the next element, curr=[nums[1]]. now we find all the permuations with number [1]
         '''
 
-        def backtrack(curr):
-            if len(curr)==len(nums):
-                ans.append(curr[:])
-                return
-            
-            for num in nums:
-                if num not in curr:
-                    curr.append(num)
-                    backtrack(curr)
-                    curr.pop()
-        ans = []
-        backtrack([])
-        return ans
+        N = len(nums)
 
-        
+        def backtrack(combination):
+            if len(combination)==N:
+                results.append(combination[:])
+                return
+
+            for i in range(0,N):
+                num = nums[i]
+                if num not in combination:
+                    combination.append(num)
+                    backtrack(combination)
+                    combination.pop()
+
+        combination=[]
+        results = []
+        backtrack(combination)
+        return results
