@@ -53,4 +53,4 @@ class Solution:
                     total += dfs(nested.getList(),depth+1)
             return total
 
-        return dfs(nestedList,1)        
+        return dfs(nestedList,1)     
