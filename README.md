@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3481-second-day-verification](https://github.com/jkginfinite/leethubv2/tree/master/3481-second-day-verification) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/jkginfinite/leethubv2/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3520-year-on-year-growth-rate](https://github.com/jkginfinite/leethubv2/tree/master/3520-year-on-year-growth-rate) |
+| [3530-odd-and-even-transactions](https://github.com/jkginfinite/leethubv2/tree/master/3530-odd-and-even-transactions) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 | [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
 | [3782-find-valid-emails](https://github.com/jkginfinite/leethubv2/tree/master/3782-find-valid-emails) |
