@@ -8,10 +8,11 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
 
+        nodes = [p,q]
         def returnLCA(root,p,q):
             stack=[root]
             parents={root:None}
-            while p not in parents or q not in parents:
+            while any([p not in parents for p in nodes]):
                 node = stack.pop()
                 if node.left:
                     parents[node.left]=node
