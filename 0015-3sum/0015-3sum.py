@@ -1,27 +1,42 @@
 class Solution:
+    def __init__(self):
+        self.results = []
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
-        for i in range(len(nums)):
-            if nums[i]>0:
+
+        for index in range(len(nums)):
+            val = nums[index]
+            if val>0:
                 break
-            if i==0 or nums[i-1]!=nums[i]:
-                self.binarySearch(nums,i,res)
-        return res
-        
-    def binarySearch(self,nums,i,res):
-        low = i+1
-        high = len(nums)-1
-        while low<high:
-            sum = nums[i]+nums[low]+nums[high]
-            if sum<0:
-                low+=1
-            elif sum>0:
-                high-=1
+            if index==0 or nums[index-1]!=nums[index]:
+                self.twoSum(index,nums)
+        return self.results
+
+    def twoSum(self,i,nums):
+        lo = i+1
+        hi = len(nums)-1
+        while lo<hi:
+            val = nums[i]+nums[lo]+nums[hi]
+            if val<0:
+                lo+=1
+            elif val>0:
+                hi-=1
             else:
-                res.append([nums[i],nums[low],nums[high]])
-                low+=1
-                high-=1
-                while low<high and nums[low]==nums[low-1]:
-                    low+=1
+                _ = [nums[i],nums[lo],nums[hi]]
+                self.results.append(_)
+                lo+=1
+                hi-=1
+                while lo<hi and nums[lo]==nums[lo-1]:
+                    lo+=1
+        
+            
+
+
+        #twoSumII
+        #set the low pointer to lo=i+1 and hi=len(arr)-1
+        #while low pointer is smaller than high
+        #if nums[i]+nums[lo]+nums[hi]<0 increment lo+=1
+        # if nums[i]+nums[lo]+nums[hi]>0 then hi-=1
+        # otherwise, add the three numbers to a result
+        # decrement hi and increment lo
         
