@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/jkginfinite/leethubv2/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/jkginfinite/leethubv2/tree/master/2087-confirmation-rate) |
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/jkginfinite/leethubv2/tree/master/2092-users-that-actively-request-confirmation-messages) |
+| [2097-strong-friendship](https://github.com/jkginfinite/leethubv2/tree/master/2097-strong-friendship) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/jkginfinite/leethubv2/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
