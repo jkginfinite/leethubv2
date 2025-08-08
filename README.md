@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1942-primary-department-for-each-employee) |
 | [1958-ad-free-sessions](https://github.com/jkginfinite/leethubv2/tree/master/1958-ad-free-sessions) |
+| [1964-find-interview-candidates](https://github.com/jkginfinite/leethubv2/tree/master/1964-find-interview-candidates) |
 | [2046-page-recommendations-ii](https://github.com/jkginfinite/leethubv2/tree/master/2046-page-recommendations-ii) |
 | [2057-count-salary-categories](https://github.com/jkginfinite/leethubv2/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/jkginfinite/leethubv2/tree/master/2087-confirmation-rate) |
