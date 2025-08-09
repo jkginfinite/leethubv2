@@ -1,14 +1,22 @@
-from itertools import combinations
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        combos = [[]]
-        for i in nums:
-            combos.append([i])
-        for r in range(2,len(nums)+1):
-            combos.extend(list(combinations(nums,r)))
-        print(combos)
-        return combos
+
+        def backtrack(first,results,path):
+            results.append(path[:])
+            for i in range(first,N):
+                path.append(nums[i])
+                backtrack(i+1,results,path)
+                path.pop()
+
+        N = len(nums)
+        results = []
+        path = []
+        first = 0
+        backtrack(first,results,path)
+        return results
 
 
-        
+
+            
+
         
