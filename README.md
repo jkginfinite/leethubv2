@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3520-year-on-year-growth-rate](https://github.com/jkginfinite/leethubv2/tree/master/3520-year-on-year-growth-rate) |
 | [3530-odd-and-even-transactions](https://github.com/jkginfinite/leethubv2/tree/master/3530-odd-and-even-transactions) |
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
+| [3650-find-cities-in-each-state-ii](https://github.com/jkginfinite/leethubv2/tree/master/3650-find-cities-in-each-state-ii) |
 | [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
 | [3782-find-valid-emails](https://github.com/jkginfinite/leethubv2/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3803-find-products-with-valid-serial-numbers) |
