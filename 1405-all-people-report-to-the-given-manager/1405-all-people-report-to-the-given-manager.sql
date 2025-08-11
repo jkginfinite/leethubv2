@@ -1,7 +1,25 @@
-with recursive cte as
-(
-select employee_id from employees where manager_id=1 and employee_id!=1
+# Write your MySQL query statement below
+with t1 as
+(select employee_id
+from employees
+where employee_id in (select employee_id from employees where manager_id=1 and employee_id!=1)),
+
+t2 as
+(select employee_id
+from employees
+where manager_id in (select * from t1))
+
+
+select employee_id
+from employees
+where manager_id in (select * from t2)
+
 union all
-select a.employee_id from employees a join cte b on (b.employee_id=a.manager_id) 
-)
-select employee_id from cte
+
+select *
+from t2
+
+union all
+
+select *
+from t1
