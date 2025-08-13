@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/jkginfinite/leethubv2/tree/master/1390-average-selling-price) |
 | [1399-page-recommendations](https://github.com/jkginfinite/leethubv2/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/jkginfinite/leethubv2/tree/master/1405-all-people-report-to-the-given-manager) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/jkginfinite/leethubv2/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1425-weather-type-in-each-country](https://github.com/jkginfinite/leethubv2/tree/master/1425-weather-type-in-each-country) |
 | [1439-running-total-for-different-genders](https://github.com/jkginfinite/leethubv2/tree/master/1439-running-total-for-different-genders) |
 | [1452-restaurant-growth](https://github.com/jkginfinite/leethubv2/tree/master/1452-restaurant-growth) |
