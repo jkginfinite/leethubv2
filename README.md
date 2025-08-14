@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2371-the-users-that-are-eligible-for-discount) |
 | [2440-tasks-count-in-the-weekend](https://github.com/jkginfinite/leethubv2/tree/master/2440-tasks-count-in-the-weekend) |
 | [2441-arrange-table-by-gender](https://github.com/jkginfinite/leethubv2/tree/master/2441-arrange-table-by-gender) |
+| [2446-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/jkginfinite/leethubv2/tree/master/2446-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2452-product-sales-analysis-v](https://github.com/jkginfinite/leethubv2/tree/master/2452-product-sales-analysis-v) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/jkginfinite/leethubv2/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 | [2516-sort-the-olympic-table](https://github.com/jkginfinite/leethubv2/tree/master/2516-sort-the-olympic-table) |
