@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jkginfinite/leethubv2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3780-permutations-iii](https://github.com/jkginfinite/leethubv2/tree/master/3780-permutations-iii) |
+| [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
+| [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
 ## Brainteaser
 |  |
 | ------- |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
+| [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
