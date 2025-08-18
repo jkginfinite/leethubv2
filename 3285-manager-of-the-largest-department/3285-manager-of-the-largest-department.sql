@@ -1,12 +1,14 @@
 # Write your MySQL query statement below
-with t as
-(select dep_id, count(emp_id) as c
-from employees
-group by 1
-order by 2 DESC)
+with cte as
+(select *, case when position='Manager' then COUNT(emp_id) ELSE 0 END AS COUNT
+FROM employees
+GROUP BY dep_id),
+
+cte1 as
+(SELECT *, RANK() OVER (ORDER by count DESC) rnk
+from cte)
 
 select emp_name as manager_name, dep_id
-from employees
-where dep_id in (select dep_id from t where c in (select max(c) from t))
-and position='Manager'
-order by 2 ASC
+from cte1
+where rnk=1
+order by dep_id
