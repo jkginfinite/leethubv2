@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3287-loan-types](https://github.com/jkginfinite/leethubv2/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/jkginfinite/leethubv2/tree/master/3300-friday-purchases-i) |
 | [3365-find-all-unique-email-domains](https://github.com/jkginfinite/leethubv2/tree/master/3365-find-all-unique-email-domains) |
+| [3400-find-bursty-behavior](https://github.com/jkginfinite/leethubv2/tree/master/3400-find-bursty-behavior) |
 | [3481-second-day-verification](https://github.com/jkginfinite/leethubv2/tree/master/3481-second-day-verification) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/jkginfinite/leethubv2/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3520-year-on-year-growth-rate](https://github.com/jkginfinite/leethubv2/tree/master/3520-year-on-year-growth-rate) |
