@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-sales-analysis-i](https://github.com/jkginfinite/leethubv2/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/jkginfinite/leethubv2/tree/master/1173-sales-analysis-ii) |
 | [1174-sales-analysis-iii](https://github.com/jkginfinite/leethubv2/tree/master/1174-sales-analysis-iii) |
+| [1181-game-play-analysis-iii](https://github.com/jkginfinite/leethubv2/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/jkginfinite/leethubv2/tree/master/1182-game-play-analysis-iv) |
 | [1198-unpopular-books](https://github.com/jkginfinite/leethubv2/tree/master/1198-unpopular-books) |
 | [1204-new-users-daily-count](https://github.com/jkginfinite/leethubv2/tree/master/1204-new-users-daily-count) |
