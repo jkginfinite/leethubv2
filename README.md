@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-new-users-daily-count](https://github.com/jkginfinite/leethubv2/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/jkginfinite/leethubv2/tree/master/1214-highest-grade-for-each-student) |
 | [1215-reported-posts](https://github.com/jkginfinite/leethubv2/tree/master/1215-reported-posts) |
+| [1225-active-businesses](https://github.com/jkginfinite/leethubv2/tree/master/1225-active-businesses) |
 | [1237-reported-posts-ii](https://github.com/jkginfinite/leethubv2/tree/master/1237-reported-posts-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jkginfinite/leethubv2/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1278-product-price-at-a-given-date](https://github.com/jkginfinite/leethubv2/tree/master/1278-product-price-at-a-given-date) |
