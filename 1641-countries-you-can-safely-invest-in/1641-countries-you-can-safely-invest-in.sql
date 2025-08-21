@@ -1,15 +1,8 @@
-# Write your MySQL query statement below
-with t1 as
-(select *, CAST(SUBSTRING_INDEX(phone_number, '-', 1) AS UNSIGNED) as country_code
-from person A
-join calls B
-on A.id = B.caller_id or A.id = B.callee_id)
-
-select distinct name as country from
-(select country_code, B.name, avg(duration) as avg_duration
-from t1 A
-join country B
-using (country_code)
-group by 1,2
-having avg(duration)>(select avg(duration) from t1))
-as x
+select co.name as country
+from person p
+join country co
+ON SUBSTRING(phone_number,1,3)=country_code
+JOIN calls c
+ON p.id IN (c.caller_id, c.callee_id)
+group by co.name
+HAVING AVG(duration)>(SELECT AVG(duration) from calls)
