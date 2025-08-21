@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-active-users](https://github.com/jkginfinite/leethubv2/tree/master/1579-active-users) |
 | [1608-calculate-salaries](https://github.com/jkginfinite/leethubv2/tree/master/1608-calculate-salaries) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/jkginfinite/leethubv2/tree/master/1639-friendly-movies-streamed-last-month) |
+| [1641-countries-you-can-safely-invest-in](https://github.com/jkginfinite/leethubv2/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/jkginfinite/leethubv2/tree/master/1664-find-users-with-valid-e-mails) |
 | [1686-fix-product-name-format](https://github.com/jkginfinite/leethubv2/tree/master/1686-fix-product-name-format) |
