@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/jkginfinite/leethubv2/tree/master/1664-find-users-with-valid-e-mails) |
 | [1671-the-most-recent-three-orders](https://github.com/jkginfinite/leethubv2/tree/master/1671-the-most-recent-three-orders) |
 | [1686-fix-product-name-format](https://github.com/jkginfinite/leethubv2/tree/master/1686-fix-product-name-format) |
+| [1688-the-most-recent-orders-for-each-product](https://github.com/jkginfinite/leethubv2/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1712-unique-orders-and-customers-per-month](https://github.com/jkginfinite/leethubv2/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/jkginfinite/leethubv2/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1749-sellers-with-no-sales](https://github.com/jkginfinite/leethubv2/tree/master/1749-sellers-with-no-sales) |
