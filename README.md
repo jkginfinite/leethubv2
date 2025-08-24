@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3155-highest-salaries-difference](https://github.com/jkginfinite/leethubv2/tree/master/3155-highest-salaries-difference) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/jkginfinite/leethubv2/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3258-classifying-triangles-by-lengths](https://github.com/jkginfinite/leethubv2/tree/master/3258-classifying-triangles-by-lengths) |
+| [3259-binary-tree-nodes](https://github.com/jkginfinite/leethubv2/tree/master/3259-binary-tree-nodes) |
 | [3284-find-expensive-cities](https://github.com/jkginfinite/leethubv2/tree/master/3284-find-expensive-cities) |
 | [3285-manager-of-the-largest-department](https://github.com/jkginfinite/leethubv2/tree/master/3285-manager-of-the-largest-department) |
 | [3286-class-performance](https://github.com/jkginfinite/leethubv2/tree/master/3286-class-performance) |
