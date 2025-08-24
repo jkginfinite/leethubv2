@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/jkginfinite/leethubv2/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1821-products-worth-over-invoices](https://github.com/jkginfinite/leethubv2/tree/master/1821-products-worth-over-invoices) |
 | [1842-number-of-calls-between-two-persons](https://github.com/jkginfinite/leethubv2/tree/master/1842-number-of-calls-between-two-persons) |
+| [1862-count-apples-and-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1862-count-apples-and-oranges) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1932-grand-slam-titles](https://github.com/jkginfinite/leethubv2/tree/master/1932-grand-slam-titles) |
 | [1942-primary-department-for-each-employee](https://github.com/jkginfinite/leethubv2/tree/master/1942-primary-department-for-each-employee) |
