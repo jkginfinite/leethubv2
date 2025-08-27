@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1123-single-row-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/1123-single-row-keyboard) |
+| [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
+| [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
+| [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jkginfinite/leethubv2/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
+| [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
