@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jkginfinite/leethubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jkginfinite/leethubv2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3429-special-array-i](https://github.com/jkginfinite/leethubv2/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jkginfinite/leethubv2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jkginfinite/leethubv2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
