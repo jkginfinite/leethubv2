@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jkginfinite/leethubv2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jkginfinite/leethubv2/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/jkginfinite/leethubv2/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jkginfinite/leethubv2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
