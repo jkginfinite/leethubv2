@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jkginfinite/leethubv2/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/jkginfinite/leethubv2/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jkginfinite/leethubv2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/jkginfinite/leethubv2/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jkginfinite/leethubv2/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jkginfinite/leethubv2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jkginfinite/leethubv2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/jkginfinite/leethubv2/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jkginfinite/leethubv2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
