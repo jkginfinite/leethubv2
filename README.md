@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/jkginfinite/leethubv2/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jkginfinite/leethubv2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jkginfinite/leethubv2/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
