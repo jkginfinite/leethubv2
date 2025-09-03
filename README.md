@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jkginfinite/leethubv2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
+| [1066-fixed-point](https://github.com/jkginfinite/leethubv2/tree/master/1066-fixed-point) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jkginfinite/leethubv2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
+| [1066-fixed-point](https://github.com/jkginfinite/leethubv2/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
