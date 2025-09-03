@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1066-fixed-point](https://github.com/jkginfinite/leethubv2/tree/master/1066-fixed-point) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
 | [1066-fixed-point](https://github.com/jkginfinite/leethubv2/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jkginfinite/leethubv2/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
