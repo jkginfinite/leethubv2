@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jkginfinite/leethubv2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/jkginfinite/leethubv2/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jkginfinite/leethubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jkginfinite/leethubv2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jkginfinite/leethubv2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jkginfinite/leethubv2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1454-remove-palindromic-subsequences](https://github.com/jkginfinite/leethubv2/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jkginfinite/leethubv2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jkginfinite/leethubv2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
