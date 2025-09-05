@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/jkginfinite/leethubv2/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1123-single-row-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/1123-single-row-keyboard) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jkginfinite/leethubv2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
+| [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jkginfinite/leethubv2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
 ## Heap (Priority Queue)
