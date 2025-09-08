@@ -5,7 +5,6 @@ class Solution:
 
         while low<=high:
             cur = (low+high)//2
-            count = 0
             count = sum(num<=cur for num in nums)
 
             if count>cur:
