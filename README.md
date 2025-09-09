@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jkginfinite/leethubv2/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jkginfinite/leethubv2/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jkginfinite/leethubv2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jkginfinite/leethubv2/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jkginfinite/leethubv2/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jkginfinite/leethubv2/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 ## Number Theory
 |  |
 | ------- |
