@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jkginfinite/leethubv2/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jkginfinite/leethubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
