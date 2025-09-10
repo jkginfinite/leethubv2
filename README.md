@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/jkginfinite/leethubv2/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0168-excel-sheet-column-title](https://github.com/jkginfinite/leethubv2/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/jkginfinite/leethubv2/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0243-shortest-word-distance](https://github.com/jkginfinite/leethubv2/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/jkginfinite/leethubv2/tree/master/0246-strobogrammatic-number) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkginfinite/leethubv2/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/jkginfinite/leethubv2/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/jkginfinite/leethubv2/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/jkginfinite/leethubv2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
