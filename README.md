@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jkginfinite/leethubv2/tree/master/3412-permutation-difference-between-two-strings) |
+| [3787-maximum-students-on-a-single-bench](https://github.com/jkginfinite/leethubv2/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3780-permutations-iii](https://github.com/jkginfinite/leethubv2/tree/master/3780-permutations-iii) |
 | [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
+| [3787-maximum-students-on-a-single-bench](https://github.com/jkginfinite/leethubv2/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3790-fruits-into-baskets-ii](https://github.com/jkginfinite/leethubv2/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jkginfinite/leethubv2/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
