@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/jkginfinite/leethubv2/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
+| [1088-number-of-days-in-a-month](https://github.com/jkginfinite/leethubv2/tree/master/1088-number-of-days-in-a-month) |
 | [1094-matrix-cells-in-distance-order](https://github.com/jkginfinite/leethubv2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jkginfinite/leethubv2/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jkginfinite/leethubv2/tree/master/1421-find-numbers-with-even-number-of-digits) |
