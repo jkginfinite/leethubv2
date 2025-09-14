@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3787-maximum-students-on-a-single-bench](https://github.com/jkginfinite/leethubv2/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3790-fruits-into-baskets-ii](https://github.com/jkginfinite/leethubv2/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jkginfinite/leethubv2/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jkginfinite/leethubv2/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jkginfinite/leethubv2/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
