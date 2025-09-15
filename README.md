@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jkginfinite/leethubv2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jkginfinite/leethubv2/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/jkginfinite/leethubv2/tree/master/1454-remove-palindromic-subsequences) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jkginfinite/leethubv2/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jkginfinite/leethubv2/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jkginfinite/leethubv2/tree/master/0645-set-mismatch) |
+| [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jkginfinite/leethubv2/tree/master/0148-sort-list) |
+| [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 ## Backtracking
 |  |
 | ------- |
