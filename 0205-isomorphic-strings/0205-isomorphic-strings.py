@@ -10,13 +10,13 @@ class Solution:
         if len(s)!=len(t):
             return False
 
-        from collections import Counter
-        cs = Counter(s)
-        ct = Counter(t)
-        count = sorted(cs.values())==sorted(ct.values())
+        #from collections import Counter
+        #cs = Counter(s)
+        #ct = Counter(t)
+        #count = sorted(cs.values())==sorted(ct.values())
 
-        if not count:
-            return False
+        #if not count:
+        #    return False
 
         S = list(s)
         T = list(t)
