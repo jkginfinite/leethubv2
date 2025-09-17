@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
+| [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1123-single-row-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/1123-single-row-keyboard) |
 | [1308-smallest-string-with-swaps](https://github.com/jkginfinite/leethubv2/tree/master/1308-smallest-string-with-swaps) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
+| [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
