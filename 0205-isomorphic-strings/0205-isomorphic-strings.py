@@ -6,13 +6,16 @@ class Solution:
         #sort each list
         if s==t:
             return True
+        
+        if len(s)!=len(t):
+            return False
 
         from collections import Counter
         cs = Counter(s)
         ct = Counter(t)
         count = sorted(cs.values())==sorted(ct.values())
 
-        if not count or len(s)!=len(t):
+        if not count:
             return False
 
         S = list(s)
@@ -28,5 +31,3 @@ class Solution:
             elif t_element in list(d.values()) and s_element not in d:
                 return False
         return True
-        
-        return count
