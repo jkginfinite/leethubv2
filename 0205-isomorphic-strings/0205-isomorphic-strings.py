@@ -1,9 +1,5 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        #strategy
-        #loop through the string s, count the number of times the characters appear save that count to a list
-        #loop throughg the string t, count the number of times the characters appear save to list
-        #sort each list
         if s==t:
             return True
         
