@@ -10,14 +10,6 @@ class Solution:
         if len(s)!=len(t):
             return False
 
-        #from collections import Counter
-        #cs = Counter(s)
-        #ct = Counter(t)
-        #count = sorted(cs.values())==sorted(ct.values())
-
-        #if not count:
-        #    return False
-
         S = list(s)
         T = list(t)
         d = {}
@@ -26,8 +18,6 @@ class Solution:
             t_element = T[index]
             if s_element not in d and t_element not in list(d.values()):
                 d[s_element] = t_element
-            elif s_element in d and d[s_element]!=t_element:
-                return False
-            elif t_element in list(d.values()) and s_element not in d:
+            elif (s_element in d and d[s_element]!=t_element) or (t_element in list(d.values()) and s_element not in d):
                 return False
         return True
