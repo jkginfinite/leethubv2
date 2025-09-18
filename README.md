@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jkginfinite/leethubv2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jkginfinite/leethubv2/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jkginfinite/leethubv2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jkginfinite/leethubv2/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/2312-most-frequent-number-following-key-in-an-array) |
