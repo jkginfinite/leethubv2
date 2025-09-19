@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/jkginfinite/leethubv2/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jkginfinite/leethubv2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jkginfinite/leethubv2/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/jkginfinite/leethubv2/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
