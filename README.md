@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1059-missing-element-in-sorted-array) |
 | [1066-fixed-point](https://github.com/jkginfinite/leethubv2/tree/master/1066-fixed-point) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
+| [1082-sum-of-digits-in-the-minimum-number](https://github.com/jkginfinite/leethubv2/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1094-matrix-cells-in-distance-order](https://github.com/jkginfinite/leethubv2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/jkginfinite/leethubv2/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/jkginfinite/leethubv2/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/jkginfinite/leethubv2/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
+| [1082-sum-of-digits-in-the-minimum-number](https://github.com/jkginfinite/leethubv2/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1088-number-of-days-in-a-month](https://github.com/jkginfinite/leethubv2/tree/master/1088-number-of-days-in-a-month) |
 | [1094-matrix-cells-in-distance-order](https://github.com/jkginfinite/leethubv2/tree/master/1094-matrix-cells-in-distance-order) |
