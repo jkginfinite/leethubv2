@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkginfinite/leethubv2/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jkginfinite/leethubv2/tree/master/0067-add-binary) |
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
+| [0258-add-digits](https://github.com/jkginfinite/leethubv2/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jkginfinite/leethubv2/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/jkginfinite/leethubv2/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jkginfinite/leethubv2/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jkginfinite/leethubv2/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jkginfinite/leethubv2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jkginfinite/leethubv2/tree/master/0258-add-digits) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 ## Ordered Set
 |  |
