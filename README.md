@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jkginfinite/leethubv2/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jkginfinite/leethubv2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jkginfinite/leethubv2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/jkginfinite/leethubv2/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jkginfinite/leethubv2/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/jkginfinite/leethubv2/tree/master/1965-sum-of-digits-in-base-k) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jkginfinite/leethubv2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jkginfinite/leethubv2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
 | [3273-most-expensive-item-that-can-not-be-bought](https://github.com/jkginfinite/leethubv2/tree/master/3273-most-expensive-item-that-can-not-be-bought) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
