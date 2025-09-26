@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/jkginfinite/leethubv2/tree/master/1454-remove-palindromic-subsequences) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jkginfinite/leethubv2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jkginfinite/leethubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/jkginfinite/leethubv2/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jkginfinite/leethubv2/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jkginfinite/leethubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/jkginfinite/leethubv2/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
