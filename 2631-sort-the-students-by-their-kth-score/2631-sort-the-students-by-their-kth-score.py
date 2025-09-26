@@ -1,8 +1,6 @@
 class Solution:
     def sortTheStudents(self, score: List[List[int]], k: int) -> List[List[int]]:
-        print("do later")
         students = list(range(len(score)))
-        tests = list(range(len(score[0])))
 
         results = {}
         for i in students:
