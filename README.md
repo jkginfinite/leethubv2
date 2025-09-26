@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jkginfinite/leethubv2/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jkginfinite/leethubv2/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3969-sort-threats-by-severity-and-exploitability](https://github.com/jkginfinite/leethubv2/tree/master/3969-sort-threats-by-severity-and-exploitability) |
 ## Greedy
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jkginfinite/leethubv2/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3969-sort-threats-by-severity-and-exploitability](https://github.com/jkginfinite/leethubv2/tree/master/3969-sort-threats-by-severity-and-exploitability) |
 ## Counting Sort
 |  |
 | ------- |
