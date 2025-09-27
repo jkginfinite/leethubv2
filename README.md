@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jkginfinite/leethubv2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jkginfinite/leethubv2/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jkginfinite/leethubv2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jkginfinite/leethubv2/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jkginfinite/leethubv2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jkginfinite/leethubv2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jkginfinite/leethubv2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jkginfinite/leethubv2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jkginfinite/leethubv2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/jkginfinite/leethubv2/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jkginfinite/leethubv2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Monotonic Queue
 |  |
