@@ -8,13 +8,9 @@ class Solution:
 
         WORD = list(word)
         count = 0
-        substrings = []
         for i in range(len(word)):
             for j in range(i+1,len(word)+1):
                 window = WORD[i:j]
-                print(''.join(window))
                 if not any([n in window for n in non_vowels]) and all([v in window for v in vowels]):
                     count+=1
-                    substrings.append(''.join(window))
-        print(substrings)
         return count
