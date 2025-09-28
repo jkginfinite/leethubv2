@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/jkginfinite/leethubv2/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/jkginfinite/leethubv2/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/jkginfinite/leethubv2/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1123-single-row-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/1123-single-row-keyboard) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jkginfinite/leethubv2/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/jkginfinite/leethubv2/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/jkginfinite/leethubv2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-high-five](https://github.com/jkginfinite/leethubv2/tree/master/1074-high-five) |
