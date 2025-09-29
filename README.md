@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0666-path-sum-iv](https://github.com/jkginfinite/leethubv2/tree/master/0666-path-sum-iv) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 | [0807-custom-sort-string](https://github.com/jkginfinite/leethubv2/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
+| [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 | [0807-custom-sort-string](https://github.com/jkginfinite/leethubv2/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/jkginfinite/leethubv2/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/jkginfinite/leethubv2/tree/master/0721-accounts-merge) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jkginfinite/leethubv2/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jkginfinite/leethubv2/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jkginfinite/leethubv2/tree/master/0572-subtree-of-another-tree) |
+| [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 ## Combinatorics
 |  |
@@ -1204,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/jkginfinite/leethubv2/tree/master/0692-top-k-frequent-words) |
+| [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
