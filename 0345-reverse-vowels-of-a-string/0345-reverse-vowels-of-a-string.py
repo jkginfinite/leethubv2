@@ -16,8 +16,6 @@ class Solution:
 
         #print(given_vowels)
         u = dict(sorted(given_vowels.items(), key=lambda x: x[0],reverse=True))
-        print(given_letters)
-        print(u)
         n = 0
         d = {}
         for val in u.values():
@@ -30,5 +28,4 @@ class Solution:
             if type(_)==int:
                 given_letters[index]=d[m]
                 m+=1
-        print(given_letters)
         return ''.join(given_letters)
