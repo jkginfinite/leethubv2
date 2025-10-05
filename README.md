@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/jkginfinite/leethubv2/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2886-faulty-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jkginfinite/leethubv2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jkginfinite/leethubv2/tree/master/3412-permutation-difference-between-two-strings) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/jkginfinite/leethubv2/tree/master/0157-read-n-characters-given-read4) |
 | [0258-add-digits](https://github.com/jkginfinite/leethubv2/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
+| [2886-faulty-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/jkginfinite/leethubv2/tree/master/3790-fruits-into-baskets-ii) |
