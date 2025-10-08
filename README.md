@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/jkginfinite/leethubv2/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/jkginfinite/leethubv2/tree/master/0940-fruit-into-baskets) |
+| [1031-add-to-array-form-of-integer](https://github.com/jkginfinite/leethubv2/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/jkginfinite/leethubv2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jkginfinite/leethubv2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/jkginfinite/leethubv2/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/jkginfinite/leethubv2/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
+| [1031-add-to-array-form-of-integer](https://github.com/jkginfinite/leethubv2/tree/master/1031-add-to-array-form-of-integer) |
 | [1082-sum-of-digits-in-the-minimum-number](https://github.com/jkginfinite/leethubv2/tree/master/1082-sum-of-digits-in-the-minimum-number) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
 | [1088-number-of-days-in-a-month](https://github.com/jkginfinite/leethubv2/tree/master/1088-number-of-days-in-a-month) |
