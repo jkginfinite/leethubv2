@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jkginfinite/leethubv2/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jkginfinite/leethubv2/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/jkginfinite/leethubv2/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/jkginfinite/leethubv2/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/jkginfinite/leethubv2/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/jkginfinite/leethubv2/tree/master/0409-longest-palindrome) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0364-nested-list-weight-sum-ii) |
+| [0394-decode-string](https://github.com/jkginfinite/leethubv2/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0716-max-stack](https://github.com/jkginfinite/leethubv2/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jkginfinite/leethubv2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jkginfinite/leethubv2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/jkginfinite/leethubv2/tree/master/0394-decode-string) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
