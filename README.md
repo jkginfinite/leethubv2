@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3787-maximum-students-on-a-single-bench](https://github.com/jkginfinite/leethubv2/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4017-filter-characters-by-frequency](https://github.com/jkginfinite/leethubv2/tree/master/4017-filter-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/jkginfinite/leethubv2/tree/master/3617-find-the-original-typed-string-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/jkginfinite/leethubv2/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4017-filter-characters-by-frequency](https://github.com/jkginfinite/leethubv2/tree/master/4017-filter-characters-by-frequency) |
 ## Array
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jkginfinite/leethubv2/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jkginfinite/leethubv2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4017-filter-characters-by-frequency](https://github.com/jkginfinite/leethubv2/tree/master/4017-filter-characters-by-frequency) |
 ## Database
 |  |
 | ------- |
