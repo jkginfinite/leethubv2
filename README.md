@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jkginfinite/leethubv2/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0760-bold-words-in-string](https://github.com/jkginfinite/leethubv2/tree/master/0760-bold-words-in-string) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/jkginfinite/leethubv2/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/jkginfinite/leethubv2/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/jkginfinite/leethubv2/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/jkginfinite/leethubv2/tree/master/0924-fair-candy-swap) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jkginfinite/leethubv2/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jkginfinite/leethubv2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/jkginfinite/leethubv2/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [1083-two-sum-less-than-k](https://github.com/jkginfinite/leethubv2/tree/master/1083-two-sum-less-than-k) |
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jkginfinite/leethubv2/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jkginfinite/leethubv2/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
@@ -1057,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/jkginfinite/leethubv2/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/jkginfinite/leethubv2/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/jkginfinite/leethubv2/tree/master/1094-matrix-cells-in-distance-order) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -1103,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jkginfinite/leethubv2/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jkginfinite/leethubv2/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jkginfinite/leethubv2/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/jkginfinite/leethubv2/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/jkginfinite/leethubv2/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jkginfinite/leethubv2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
