@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jkginfinite/leethubv2/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jkginfinite/leethubv2/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jkginfinite/leethubv2/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Recursion
