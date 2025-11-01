@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1958-ad-free-sessions](https://github.com/jkginfinite/leethubv2/tree/master/1958-ad-free-sessions) |
 | [1964-find-interview-candidates](https://github.com/jkginfinite/leethubv2/tree/master/1964-find-interview-candidates) |
 | [1981-maximum-transaction-each-day](https://github.com/jkginfinite/leethubv2/tree/master/1981-maximum-transaction-each-day) |
+| [1991-league-statistics](https://github.com/jkginfinite/leethubv2/tree/master/1991-league-statistics) |
 | [2046-page-recommendations-ii](https://github.com/jkginfinite/leethubv2/tree/master/2046-page-recommendations-ii) |
 | [2057-count-salary-categories](https://github.com/jkginfinite/leethubv2/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/jkginfinite/leethubv2/tree/master/2087-confirmation-rate) |
