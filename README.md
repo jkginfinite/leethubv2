@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/jkginfinite/leethubv2/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2371-the-users-that-are-eligible-for-discount) |
+| [2376-number-of-times-a-driver-was-a-passenger](https://github.com/jkginfinite/leethubv2/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
 | [2431-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/jkginfinite/leethubv2/tree/master/2431-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2440-tasks-count-in-the-weekend](https://github.com/jkginfinite/leethubv2/tree/master/2440-tasks-count-in-the-weekend) |
 | [2441-arrange-table-by-gender](https://github.com/jkginfinite/leethubv2/tree/master/2441-arrange-table-by-gender) |
