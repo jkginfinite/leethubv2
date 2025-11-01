@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/jkginfinite/leethubv2/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
+| [2252-the-airport-with-the-most-traffic](https://github.com/jkginfinite/leethubv2/tree/master/2252-the-airport-with-the-most-traffic) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/jkginfinite/leethubv2/tree/master/2371-the-users-that-are-eligible-for-discount) |
 | [2376-number-of-times-a-driver-was-a-passenger](https://github.com/jkginfinite/leethubv2/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
