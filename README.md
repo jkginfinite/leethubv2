@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jkginfinite/leethubv2/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
 | ------- |
