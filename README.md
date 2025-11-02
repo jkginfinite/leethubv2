@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jkginfinite/leethubv2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/jkginfinite/leethubv2/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/jkginfinite/leethubv2/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jkginfinite/leethubv2/tree/master/0560-subarray-sum-equals-k) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/jkginfinite/leethubv2/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0565-array-nesting](https://github.com/jkginfinite/leethubv2/tree/master/0565-array-nesting) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/jkginfinite/leethubv2/tree/master/0227-basic-calculator-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/jkginfinite/leethubv2/tree/master/0364-nested-list-weight-sum-ii) |
 | [0394-decode-string](https://github.com/jkginfinite/leethubv2/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [0716-max-stack](https://github.com/jkginfinite/leethubv2/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
