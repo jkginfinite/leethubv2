@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-employees-whose-manager-left-the-company](https://github.com/jkginfinite/leethubv2/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/jkginfinite/leethubv2/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/jkginfinite/leethubv2/tree/master/2185-accepted-candidates-from-the-interviews) |
+| [2194-the-category-of-each-member-in-the-store](https://github.com/jkginfinite/leethubv2/tree/master/2194-the-category-of-each-member-in-the-store) |
 | [2208-account-balance](https://github.com/jkginfinite/leethubv2/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/jkginfinite/leethubv2/tree/master/2214-the-winner-university) |
 | [2223-the-number-of-rich-customers](https://github.com/jkginfinite/leethubv2/tree/master/2223-the-number-of-rich-customers) |
