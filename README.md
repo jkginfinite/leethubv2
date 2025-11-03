@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0716-max-stack](https://github.com/jkginfinite/leethubv2/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jkginfinite/leethubv2/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/jkginfinite/leethubv2/tree/master/0933-increasing-order-search-tree) |
+| [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1078-remove-outermost-parentheses) |
 | [1150-two-sum-bsts](https://github.com/jkginfinite/leethubv2/tree/master/1150-two-sum-bsts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -1170,12 +1171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/jkginfinite/leethubv2/tree/master/0380-insert-delete-getrandom-o1) |
 | [0716-max-stack](https://github.com/jkginfinite/leethubv2/tree/master/0716-max-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/jkginfinite/leethubv2/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0362-design-hit-counter](https://github.com/jkginfinite/leethubv2/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jkginfinite/leethubv2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Graph
 |  |
