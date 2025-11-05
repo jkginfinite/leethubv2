@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3554-premier-league-table-ranking](https://github.com/jkginfinite/leethubv2/tree/master/3554-premier-league-table-ranking) |
 | [3589-find-candidates-for-data-scientist-position-ii](https://github.com/jkginfinite/leethubv2/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3609-calculate-product-final-price](https://github.com/jkginfinite/leethubv2/tree/master/3609-calculate-product-final-price) |
+| [3642-premier-league-table-ranking-iii](https://github.com/jkginfinite/leethubv2/tree/master/3642-premier-league-table-ranking-iii) |
 | [3650-find-cities-in-each-state-ii](https://github.com/jkginfinite/leethubv2/tree/master/3650-find-cities-in-each-state-ii) |
 | [3660-second-highest-salary-ii](https://github.com/jkginfinite/leethubv2/tree/master/3660-second-highest-salary-ii) |
 | [3767-find-students-who-improved](https://github.com/jkginfinite/leethubv2/tree/master/3767-find-students-who-improved) |
