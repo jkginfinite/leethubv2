@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jkginfinite/leethubv2/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2195-time-needed-to-buy-tickets](https://github.com/jkginfinite/leethubv2/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jkginfinite/leethubv2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jkginfinite/leethubv2/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/2215-finding-3-digit-even-numbers) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jkginfinite/leethubv2/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/jkginfinite/leethubv2/tree/master/2195-time-needed-to-buy-tickets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/2886-faulty-keyboard) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/jkginfinite/leethubv2/tree/master/0362-design-hit-counter) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/jkginfinite/leethubv2/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
