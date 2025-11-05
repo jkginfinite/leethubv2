@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/jkginfinite/leethubv2/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jkginfinite/leethubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/jkginfinite/leethubv2/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/jkginfinite/leethubv2/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/jkginfinite/leethubv2/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jkginfinite/leethubv2/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/jkginfinite/leethubv2/tree/master/2886-faulty-keyboard) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jkginfinite/leethubv2/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/jkginfinite/leethubv2/tree/master/0362-design-hit-counter) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
