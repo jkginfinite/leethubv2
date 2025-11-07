@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/jkginfinite/leethubv2/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jkginfinite/leethubv2/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/jkginfinite/leethubv2/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2502-sort-the-people](https://github.com/jkginfinite/leethubv2/tree/master/2502-sort-the-people) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/jkginfinite/leethubv2/tree/master/2331-intersection-of-multiple-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/jkginfinite/leethubv2/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/jkginfinite/leethubv2/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2502-sort-the-people](https://github.com/jkginfinite/leethubv2/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jkginfinite/leethubv2/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jkginfinite/leethubv2/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/jkginfinite/leethubv2/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/jkginfinite/leethubv2/tree/master/3447-clear-digits) |
 ## Two Pointers
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/jkginfinite/leethubv2/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Graph
 |  |
 | ------- |
