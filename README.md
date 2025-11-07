@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jkginfinite/leethubv2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/jkginfinite/leethubv2/tree/master/1833-find-the-highest-altitude) |
+| [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
 | [1944-truncate-sentence](https://github.com/jkginfinite/leethubv2/tree/master/1944-truncate-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jkginfinite/leethubv2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/jkginfinite/leethubv2/tree/master/2195-time-needed-to-buy-tickets) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/jkginfinite/leethubv2/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
 | [2128-reverse-prefix-of-word](https://github.com/jkginfinite/leethubv2/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jkginfinite/leethubv2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jkginfinite/leethubv2/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
 ## Graph
 |  |
 | ------- |
