@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/jkginfinite/leethubv2/tree/master/1720-crawler-log-folder) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jkginfinite/leethubv2/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jkginfinite/leethubv2/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/jkginfinite/leethubv2/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/jkginfinite/leethubv2/tree/master/1720-crawler-log-folder) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jkginfinite/leethubv2/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jkginfinite/leethubv2/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jkginfinite/leethubv2/tree/master/0861-flipping-an-image) |
+| [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jkginfinite/leethubv2/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/jkginfinite/leethubv2/tree/master/2195-time-needed-to-buy-tickets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
