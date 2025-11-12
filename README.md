@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/jkginfinite/leethubv2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/jkginfinite/leethubv2/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/jkginfinite/leethubv2/tree/master/3254-number-of-divisible-triplet-sums) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jkginfinite/leethubv2/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jkginfinite/leethubv2/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/jkginfinite/leethubv2/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/jkginfinite/leethubv2/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jkginfinite/leethubv2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jkginfinite/leethubv2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jkginfinite/leethubv2/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/jkginfinite/leethubv2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/jkginfinite/leethubv2/tree/master/3778-transform-array-by-parity) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jkginfinite/leethubv2/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/jkginfinite/leethubv2/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/jkginfinite/leethubv2/tree/master/2998-count-symmetric-integers) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/jkginfinite/leethubv2/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jkginfinite/leethubv2/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3783-permutations-iv](https://github.com/jkginfinite/leethubv2/tree/master/3783-permutations-iv) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jkginfinite/leethubv2/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
