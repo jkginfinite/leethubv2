@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/jkginfinite/leethubv2/tree/master/2087-confirmation-rate) |
 | [2092-users-that-actively-request-confirmation-messages](https://github.com/jkginfinite/leethubv2/tree/master/2092-users-that-actively-request-confirmation-messages) |
 | [2097-strong-friendship](https://github.com/jkginfinite/leethubv2/tree/master/2097-strong-friendship) |
+| [2098-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/jkginfinite/leethubv2/tree/master/2098-all-the-pairs-with-the-maximum-number-of-common-followers) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/jkginfinite/leethubv2/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/jkginfinite/leethubv2/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/jkginfinite/leethubv2/tree/master/2185-accepted-candidates-from-the-interviews) |
