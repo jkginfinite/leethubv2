@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-class-performance](https://github.com/jkginfinite/leethubv2/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/jkginfinite/leethubv2/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/jkginfinite/leethubv2/tree/master/3300-friday-purchases-i) |
+| [3358-friends-with-no-mutual-friends](https://github.com/jkginfinite/leethubv2/tree/master/3358-friends-with-no-mutual-friends) |
 | [3365-find-all-unique-email-domains](https://github.com/jkginfinite/leethubv2/tree/master/3365-find-all-unique-email-domains) |
 | [3400-find-bursty-behavior](https://github.com/jkginfinite/leethubv2/tree/master/3400-find-bursty-behavior) |
 | [3424-friday-purchase-iii](https://github.com/jkginfinite/leethubv2/tree/master/3424-friday-purchase-iii) |
