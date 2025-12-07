@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-find-latest-salaries](https://github.com/jkginfinite/leethubv2/tree/master/2829-find-latest-salaries) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/jkginfinite/leethubv2/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2840-immediate-food-delivery-iii](https://github.com/jkginfinite/leethubv2/tree/master/2840-immediate-food-delivery-iii) |
+| [2854-rolling-average-steps](https://github.com/jkginfinite/leethubv2/tree/master/2854-rolling-average-steps) |
 | [3097-total-traveled-distance](https://github.com/jkginfinite/leethubv2/tree/master/3097-total-traveled-distance) |
 | [3155-highest-salaries-difference](https://github.com/jkginfinite/leethubv2/tree/master/3155-highest-salaries-difference) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/jkginfinite/leethubv2/tree/master/3256-find-candidates-for-data-scientist-position) |
