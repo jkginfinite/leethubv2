@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/jkginfinite/leethubv2/tree/master/0175-combine-two-tables) |
 | [0262-trips-and-users](https://github.com/jkginfinite/leethubv2/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jkginfinite/leethubv2/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0578-get-highest-answer-rate-question](https://github.com/jkginfinite/leethubv2/tree/master/0578-get-highest-answer-rate-question) |
