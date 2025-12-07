@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/jkginfinite/leethubv2/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1711-count-good-meals](https://github.com/jkginfinite/leethubv2/tree/master/1711-count-good-meals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/jkginfinite/leethubv2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jkginfinite/leethubv2/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/jkginfinite/leethubv2/tree/master/1646-kth-missing-positive-number) |
+| [1711-count-good-meals](https://github.com/jkginfinite/leethubv2/tree/master/1711-count-good-meals) |
 | [1720-crawler-log-folder](https://github.com/jkginfinite/leethubv2/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jkginfinite/leethubv2/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jkginfinite/leethubv2/tree/master/1741-sort-array-by-increasing-frequency) |
