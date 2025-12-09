@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jkginfinite/leethubv2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jkginfinite/leethubv2/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jkginfinite/leethubv2/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jkginfinite/leethubv2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/jkginfinite/leethubv2/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jkginfinite/leethubv2/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1472-design-browser-history](https://github.com/jkginfinite/leethubv2/tree/master/1472-design-browser-history) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jkginfinite/leethubv2/tree/master/1504-count-submatrices-with-all-ones) |
 | [1552-build-an-array-with-stack-operations](https://github.com/jkginfinite/leethubv2/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/jkginfinite/leethubv2/tree/master/1666-make-the-string-great) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/jkginfinite/leethubv2/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/jkginfinite/leethubv2/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/jkginfinite/leethubv2/tree/master/1086-divisor-game) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jkginfinite/leethubv2/tree/master/1504-count-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/jkginfinite/leethubv2/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/jkginfinite/leethubv2/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jkginfinite/leethubv2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jkginfinite/leethubv2/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jkginfinite/leethubv2/tree/master/1504-count-submatrices-with-all-ones) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/jkginfinite/leethubv2/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jkginfinite/leethubv2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/jkginfinite/leethubv2/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -1289,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jkginfinite/leethubv2/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/jkginfinite/leethubv2/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/jkginfinite/leethubv2/tree/master/0937-online-stock-span) |
+| [1504-count-submatrices-with-all-ones](https://github.com/jkginfinite/leethubv2/tree/master/1504-count-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jkginfinite/leethubv2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1909-buildings-with-an-ocean-view](https://github.com/jkginfinite/leethubv2/tree/master/1909-buildings-with-an-ocean-view) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/jkginfinite/leethubv2/tree/master/2485-finding-the-number-of-visible-mountains) |
